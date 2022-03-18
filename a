@@ -1,0 +1,42 @@
+[33mcommit 6999afce5fb90578d96c63ce7c6595d8cb272e7b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Медин Таракчиев <warss982@gmail.com>
+Date:   Tue Mar 15 19:39:33 2022 +0200
+
+    Introductions on Hibernate
+
+[33mcommit 62c515562b1bf1f16d9a3709c18e2be4d2d1a9b4[m
+Merge: 663bc46 22ebbcf
+Author: Медин Таракчиев <warss982@gmail.com>
+Date:   Tue Mar 15 19:34:42 2022 +0200
+
+    Merge branch 'main' of https://github.com/Medin982/SpringDate
+
+[33mcommit 663bc4628b118b2e2ca5b5266c10b95b12211887[m
+Author: Медин Таракчиев <warss982@gmail.com>
+Date:   Tue Mar 15 19:32:44 2022 +0200
+
+    Hibernate Code First task
+
+[33mcommit 22ebbcf62038d00d88b6839fe40ed083f993094c[m
+Author: Medin Tarakchiev <86888951+Medin982@users.noreply.github.com>
+Date:   Tue Mar 15 19:16:09 2022 +0200
+
+    Create README.md
+
+[33mcommit 04cda323b7b7d88186262bfbbe4b7065d4e0feb7[m
+Author: Медин Таракчиев <warss982@gmail.com>
+Date:   Tue Mar 15 19:15:17 2022 +0200
+
+    Mapping task
+
+[33mcommit c29dab172cf0fc8092dd4b2f13b472e90f9e3e12[m
+Author: Медин Таракчиев <warss982@gmail.com>
+Date:   Tue Mar 15 16:09:32 2022 +0200
+
+    test fail
+
+[33mcommit 4a910806314190fb033391a940f6731452a2cc27[m
+Author: Медин Таракчиев <warss982@gmail.com>
+Date:   Tue Mar 15 16:08:06 2022 +0200
+
+    add new project
